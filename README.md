@@ -1,7 +1,6 @@
-![Banner](https://calderawp.com/wp-content/uploads/2015/04/cwp-logo-horizontal.png)
-
+<a href="https://calderawp.com/"><img src="https://calderawp.com/wp-content/uploads/2015/04/cwp-logo-horizontal.png" style="display:inline-block;"/></a>
 REST API SEO Fields
-============
+==================
 
 Adds SEO Fields from [WordPress SEO by Yoast](https://wordpress.org/plugins/wordpress-seo/) to responses for posts in the [WordPress REST API 2.0-beta3](https://wordpress.org/plugins/rest-api/). Also allows for updating by an authenticated user.
 
