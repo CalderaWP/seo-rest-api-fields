@@ -24,6 +24,8 @@ Right now this only works with WordPress SEO by Yoast. It could work with other 
 	}
 ```
 
+The above should be performed at the rest_api_init action.
+
 ### License & Copyright
 * Copyright 2015 Josh Pollock for CalderaWP LLC.
 
