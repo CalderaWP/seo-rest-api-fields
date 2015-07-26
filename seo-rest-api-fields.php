@@ -13,7 +13,7 @@ Domain Path: /languages
 /**
  * Boot up if REST API and WordPress-SEO are present.
  */
-add_action( 'init', 'cwp_rest_api_seo_field' );
+add_action( 'rest_api_init', 'cwp_rest_api_seo_field' );
 function cwp_rest_api_seo_field() {
 	if ( defined( 'REST_API_VERSION' ) && version_compare( REST_API_VERSION,'2.0-beta3', '>=' ) ) {
 		if ( defined( 'WPSEO_FILE' ) ) {
